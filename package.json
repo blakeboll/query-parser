@@ -1,0 +1,15 @@
+{
+  "name": "qpParse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queryParse.js",
+  "scripts": {
+    "test": "node ./queryParse.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
+}
